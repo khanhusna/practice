@@ -1,0 +1,14 @@
+div.ex1 {
+    width: 400px;
+    padding-left: 200px;
+    background-color: yellow;
+    margin-left: 10px;
+  }
+  
+  div.ex2 {
+    width: 50%;
+    height: 50%;
+    padding: 200px;
+    background-color: rgb(27, 188, 186);
+    margin:10px;
+}

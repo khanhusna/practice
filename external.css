@@ -1,0 +1,32 @@
+
+/* star and forward slash */
+
+#first{
+    background-color: aqua;
+    border: 2px solid rgba(0, 36, 128,08);
+    border-radius: 10px;
+    /* opacity: 0.8; */
+}
+#second{
+    background-color: aquamarine;
+    border: 2px solid green;
+    border-radius: 20px;
+    /* opacity: 0.9; */
+}
+* {
+    /* background-color: rgba(255, 0, 187, 0.979); */
+    /* opacity:0.6 ; */
+
+}
+body{
+    background-image: url("th (2).jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 400PX;
+    background-attachment: fixed;
+}
+
+
+/* multiline comment
+ multiline comment.
+ multiline comment*/
